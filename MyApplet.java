@@ -26,11 +26,13 @@ public class MyApplet extends PApplet{
         zoog2.draw();
         zoog2.move();
         ch1.draw();
+        ch1.move();
     }
 
    public void mouseClicked() {
       zoog1.judgeClick(mouseX, mouseY);
       zoog2.judgeClick(mouseX, mouseY);
+      ch1.judgeClick(mouseX, mouseY);
      
       
    }
