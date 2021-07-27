@@ -5,11 +5,13 @@ import javax.naming.directory.SearchControls;
 public class MyApplet extends PApplet{
     HorizontalZoog zoog1;
     SecondZoog zoog2;
+    NewCharactor ch1;
     
     public void settings() {
         size(800, 400);
         zoog1 = new HorizontalZoog(this);
         zoog2 = new SecondZoog(this);
+        ch1 = new NewCharactor(this);
     }
 
    public void setup() {
@@ -23,6 +25,7 @@ public class MyApplet extends PApplet{
         zoog1.move();
         zoog2.draw();
         zoog2.move();
+        ch1.draw();
     }
 
    public void mouseClicked() {
