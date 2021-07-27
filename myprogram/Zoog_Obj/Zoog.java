@@ -18,7 +18,7 @@ abstract class Zoog {
         
     }
 
-    public void drawZoog() {
+    public void draw() {
 
         //zoog body
         p.stroke(0);

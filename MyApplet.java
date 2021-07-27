@@ -19,9 +19,9 @@ public class MyApplet extends PApplet{
 
     public void draw() {
        background(255);
-        zoog1.drawZoog();
+        zoog1.draw();
         zoog1.move();
-        zoog2.drawZoog();
+        zoog2.draw();
         zoog2.move();
     }
 
