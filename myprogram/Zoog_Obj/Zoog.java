@@ -1,13 +1,13 @@
 package myprogram.Zoog_Obj;
 import processing.core.*;
 
-abstract class Zoog {
+abstract class Zoog implements Charactor{
     public PApplet p;
     protected float x, y;
     protected float mx, my;
     protected int colorBW;
-   protected boolean rightEye = true;
-   protected boolean leftEye = true;
+    protected boolean rightEye = true;
+    protected boolean leftEye = true;
    
     public Zoog(PApplet pa) {
         p = pa;
@@ -42,7 +42,7 @@ abstract class Zoog {
         p.line(x+10, y+50, x+20, y + 60);
     }
 
-   abstract void move();//抽象メソッド
+   //public void move();//抽象メソッド
 
    /*
     public void move() {//zoogを動かすメソッド
@@ -66,7 +66,7 @@ abstract class Zoog {
     }
   }
 
-   boolean isInRange(int MouseX, int MouseY) {
+   public boolean isInRange(int MouseX, int MouseY) {
       return (p.dist(MouseX, MouseY, x-19, y-30) < 16 || p.dist(MouseX, MouseY, x-19, y-30) < 40 ) ;
    }
 }
