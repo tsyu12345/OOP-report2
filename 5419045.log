@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190908-2.6 (utf8.euc) (TeX Live 2019/Debian) (preloaded format=platex 2021.5.19)  7 AUG 2021 14:02
+This is e-pTeX, Version 3.14159265-p3.8.2-190908-2.6 (utf8.euc) (TeX Live 2019/Debian) (preloaded format=platex 2021.5.19)  7 AUG 2021 15:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -545,25 +545,106 @@ LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
 (Font)              scaled to size 13.83836pt on input line 32.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 13.83836pt on input line 32.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 43.
  [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 43.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 5
+7.
+
+(/usr/share/texmf/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 5
+8.
+
+(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 58.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 58.
+ [2] [3]
+Overfull \hbox (55.13629pt too wide) in paragraph at lines 131--131
+ []          \T1/lmtt/m/n/10 if( (MouseX > x-27 &&  MouseX < x-11)  && (MouseY 
+> y-46 && MouseY < y-14) ) {[] 
+ []
+
+
+Overfull \hbox (44.63632pt too wide) in paragraph at lines 131--131
+ []          \T1/lmtt/m/n/10 if( (MouseX > x+11 && MouseX < x+27) && (MouseY > 
+y-46 && MouseY < y-14) ) {[] 
+ []
+
+
+Overfull \hbox (149.63602pt too wide) in paragraph at lines 131--131
+ []            \T1/lmtt/m/n/10 return (p.dist(MouseX, MouseY, x-19, y-30) < 16 
+|| p.dist(MouseX, MouseY, x-19, y-30) < 40 ) ;[] 
+ []
+
+[4] [5] [6]
+Overfull \hbox (160.13599pt too wide) in paragraph at lines 272--272
+ []              \T1/lmtt/m/n/10 return (p.dist(MouseX, MouseY, x-19, y-30) < 1
+6 || p.dist(MouseX, MouseY, x-19, y-30) < 40 ) ;[] 
+ []
+
+LaTeX Font Info:    Font shape `JT1/mc/b/n' in size <10> not available
+(Font)              Font shape `JT1/mc/bx/n' tried instead on input line 279.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 279.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 279.
+LaTeX Font Info:    Font shape `JY1/mc/b/n' in size <10> not available
+(Font)              Font shape `JY1/mc/bx/n' tried instead on input line 279.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 279.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 279.
+[7]
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 296.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 296.
+File: images/result1.png Graphic file (type bmp)
+<images/result1.png>
+File: images/result2.png Graphic file (type bmp)
+<images/result2.png>
+File: images/result3.png Graphic file (type bmp)
+<images/result3.png>
+ [8]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 313.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 313.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 313.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 6.72699pt on input line 313.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 4.805pt on input line 313.
+ [9]
+Overfull \hbox (17.14139pt too wide) in paragraph at lines 339--340
+[]\T1/lmr/m/n/10 GoogleDrive \JY1/mc/m/n/10 ： []$\T1/lmtt/m/n/10 https : / / d
+rive . google . com / drive / folders / 1QEt-[]NBptDGq2J1BgOyFnGUx8SMwL5oNc ?
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 344.
+[10]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 344.
  (./5419045.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 43.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 43.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 344.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 344.
 Package rerunfilecheck Info: File `5419045.out' has not changed.
-(rerunfilecheck)             Checksum: 985B1AAD2AF290E81230B9FE71ADF1D6;88.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 43.
+(rerunfilecheck)             Checksum: 4E36AD0C238BEB07CFB06CCBFE87B4C2;583.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 344.
  ) 
 Here is how much of TeX's memory you used:
- 7445 strings out of 482863
- 109238 string characters out of 5959218
- 372721 words of memory out of 5000000
- 22581 multiletter control sequences out of 15000+600000
- 572846 words of font info for 87 fonts, out of 8000000 for 9000
+ 7576 strings out of 482863
+ 111425 string characters out of 5959218
+ 377728 words of memory out of 5000000
+ 22685 multiletter control sequences out of 15000+600000
+ 592404 words of font info for 115 fonts, out of 8000000 for 9000
  269 hyphenation exceptions out of 8191
- 37i,6n,29p,358b,326s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,6n,29p,619b,623s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 5419045.dvi (1 page, 4236 bytes).
+Output written on 5419045.dvi (10 pages, 21984 bytes).
